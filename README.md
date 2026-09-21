@@ -48,3 +48,4 @@ npm run dev
 ```
 
 Visit `http://localhost:3000` to view the live dashboard and backend connection status.
+
